@@ -1,0 +1,7 @@
+MOVIE TICKET REPORT
+*****************************************
+MOVIE NAME: Damsel
+MOVIE TICKET PRICE: R 800,0
+NUMBER OF TICKETS: 2
+TOTAL TICKET PRICE: R 1824,0
+*****************************************
